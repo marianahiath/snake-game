@@ -1,0 +1,13 @@
+body{
+    height: 95vh;
+    width: 95vw;
+
+    font-family: 'Zen Dots', cursive;
+    color: #DFF2D8;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #090B0B;
+}
